@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TemporizadorReact/static/css/main.ac460a07.chunk.css",
+    "main.js": "/TemporizadorReact/static/js/main.1c412800.chunk.js",
+    "main.js.map": "/TemporizadorReact/static/js/main.1c412800.chunk.js.map",
+    "runtime-main.js": "/TemporizadorReact/static/js/runtime-main.a651b4e7.js",
+    "runtime-main.js.map": "/TemporizadorReact/static/js/runtime-main.a651b4e7.js.map",
+    "static/js/2.2e8ce399.chunk.js": "/TemporizadorReact/static/js/2.2e8ce399.chunk.js",
+    "static/js/2.2e8ce399.chunk.js.map": "/TemporizadorReact/static/js/2.2e8ce399.chunk.js.map",
+    "index.html": "/TemporizadorReact/index.html",
+    "precache-manifest.8ce77c4f16438a24318639cf8871a46d.js": "/TemporizadorReact/precache-manifest.8ce77c4f16438a24318639cf8871a46d.js",
+    "service-worker.js": "/TemporizadorReact/service-worker.js",
+    "static/css/main.ac460a07.chunk.css.map": "/TemporizadorReact/static/css/main.ac460a07.chunk.css.map",
+    "static/js/2.2e8ce399.chunk.js.LICENSE.txt": "/TemporizadorReact/static/js/2.2e8ce399.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/TemporizadorReact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a651b4e7.js",
+    "static/js/2.2e8ce399.chunk.js",
+    "static/css/main.ac460a07.chunk.css",
+    "static/js/main.1c412800.chunk.js"
+  ]
+}
