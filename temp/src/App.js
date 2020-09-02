@@ -2,8 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function FormatDate(props) {
-  return <h2>Esta es la hora temporizada {props.date.toLocaleTimeString()}.</h2>;
+function FormatoHora(props) {
+  return <h1>Esta es la hora temporizada: {props.date.toLocaleTimeString()}.</h1>;
 }
 
 class Hora extends React.Component {
@@ -33,11 +33,15 @@ class Hora extends React.Component {
     return (
       <div>
         <h1>La Hora Temporizada!</h1>
-        <FormatDate date={this.state.date} />
+        <FormatoHora date={this.state.date} />
       </div>
     );
   }
 }
+
+/* Verificando */
+
+
 
 function App() {
   return (
@@ -45,16 +49,13 @@ function App() {
       <header className="App-header">
 	  <Hora />
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Editando <code>src/App.js</code> recargamos reload y vemos que pasa.
-        </p>
         <a
           className="App-link"
           href="https://github.com/unimauro/TemporizadorReact"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Probando el Temporizador
+          GitHub del Temporizador
         </a>
       </header>
 
