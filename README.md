@@ -1,5 +1,16 @@
 # Temporizador ReactJS
 
+### Aplicativo Desplegado / Deployed
+
+<a href="https://unimauro.github.io/TemporizadorReact">https://unimauro.github.io/TemporizadorReact/</a>
+
+Modificar en package.json la primera linea homepage de acuerdo al site:
+
+ejecutar:
+
+$npm build
+$npm deploy
+
 ### Pasos de creación:
 
 $sudo apt-get install curl
