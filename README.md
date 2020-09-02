@@ -1,6 +1,6 @@
-# Temporizador ReactJS
+### Temporizador ReactJS
 
-Pasos de creación:
+#Pasos de creación:
 
 $sudo apt-get install curl
 
@@ -14,7 +14,7 @@ $sudo npm install -g create-react-app
 
 $sudo npx create-react-app temp
 
-Pasos de creacióndespliegue:
+#Pasos de despliegue:
 
 $cd temp
 
@@ -22,7 +22,7 @@ $npm start
 
 $npm 
 
-Entonro de Desarrollo:
+#Entorno de Desarrollo:
 
 $ npm -v
 6.14.8
