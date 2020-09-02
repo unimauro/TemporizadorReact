@@ -1,6 +1,7 @@
 # Temporizador ReactJS
 
 [![unimauro (latest)](https://img.shields.io/npm/v/react/latest.svg)](https://www.npmjs.com/package/react)
+[![Github](https://img.shields.io/github/stars/unimauro/unimauro.svg?style=social&label=Stars)](https://github.com/unimauro/unimauro/stargazers)
 
 ### Aplicativo Desplegado / Deployed
 
