@@ -1,5 +1,7 @@
 # Temporizador ReactJS
 
+[![unimauro (latest)](https://img.shields.io/npm/v/unimauro/latest.svg)](https://www.npmjs.com/package/unimauro)
+
 ### Aplicativo Desplegado / Deployed
 
 <a href="https://unimauro.github.io/TemporizadorReact">https://unimauro.github.io/TemporizadorReact/</a>
